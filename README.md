@@ -4,7 +4,7 @@ Hi, my name is Victor, I am a Brazilian software developer, I work mainly with J
 I am also interested in Python for Data Science and Machine Learning.
 
 - :wrench: Currently working on: developing a large-scale micro-services environment for one of Brazil's biggest e-commerces using Spring Boot.
-- :books: Currently learning: I am currently studying [https://micronaut.io/](Micronaut), a light-weight Spring-like framework built with micro-service development in mind.
+- :books: Currently learning: I am currently studying (Micronaut)[https://micronaut.io/], a light-weight Spring-like framework built with micro-service development in mind.
 
 <!--
 **victorgcapone/victorgcapone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
