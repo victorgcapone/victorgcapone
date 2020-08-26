@@ -18,3 +18,8 @@ I see software development as more of a craft than a science and I like to think
 - [Data Science](https://github.com/victorgcapone/datascience)
   * My notebooks with some studies on datascience, mostly me experimenting with a few concepts and ideas before diving into actually learning them
   * This is highly experimentational, don't expect a lot of mathematical rigor or even correctness
+  
+  
+:postbox: Contact Me:
+- [@ LinkedIn](https://www.linkedin.com/in/victor-capone/)
+- By E-Mail: v.caponemeirelles@gmail.com
