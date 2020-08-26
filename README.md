@@ -15,3 +15,6 @@ I see software development as more of a craft than a science and I like to think
   * It uses Micronaut's AOT-compilation and introspection capabilities, along with some clever REST URI's to automatically load and execute the relevant code for the resource
 - [E2E Machine Learning](https://github.com/victorgcapone/e2e-machine-learning)
   * A toy example of an end-to-end machine learning pipeline that uses Luigi, Tensorflow and Flask to serve a simple prediction API based on a Neural Network
+- [Data Science](https://github.com/victorgcapone/datascience)
+  * My notebooks with some studies on datascience, mostly me experimenting with a few concepts and ideas before diving into actually learning them
+  * This is highly experimentational, don't expect a lot of mathematical rigor or even correctness
