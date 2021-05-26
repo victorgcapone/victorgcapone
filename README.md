@@ -5,7 +5,9 @@ I am also interested in Python for Data Science and Machine Learning.
 
 I see software development as more of a craft than a science and I like to think of myself as more of an inventor than an engineer or architect. 
 
-:wrench: Currently working on: developing a large-scale micro-services environment for one of Brazil's biggest e-commerces using Spring Boot.
+:wrench: Currently working on: developing an automated document analysis tool for 
+extracting information from real estate deeds using Machine Learning, specifically 
+Transformer models
 
 :books: Currently learning: I am currently studying [Micronaut](https://micronaut.io/), a light-weight Spring-like framework built with micro-service development in mind.
 
